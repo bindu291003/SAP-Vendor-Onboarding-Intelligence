@@ -1,0 +1,11 @@
+{
+  "agents": {
+    "vendor_onboarding_agent": {
+      "agent_id": "69a44d0d7a263c954f3efbe1",
+      "name": "Vendor Onboarding Agent",
+      "type": "single",
+      "model": "gpt-4.1",
+      "provider": "openai"
+    }
+  }
+}
