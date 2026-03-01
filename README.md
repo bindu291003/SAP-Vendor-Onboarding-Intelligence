@@ -2,6 +2,8 @@
 
 AI-powered Single Agent system for automated vendor validation, risk assessment, duplicate detection, and SAP S/4HANA onboarding.
 
+Live Demo: https://vendor-selector-clean-studio-53xl.architect.space
+
 ---
 
 ## 🚀 Project Overview
